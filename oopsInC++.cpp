@@ -53,7 +53,6 @@ using namespace std;
 
 // class Person {
 //     public:
-//     int age;
 //     void name(){
 //         cout << "My name is Ram";
 //     }
@@ -66,7 +65,7 @@ using namespace std;
 //     m.name();
 // }
 
-/* Polymerphism - It is the ability to process any data to be processed in more than one form. It makes code more flexible */
+/* Polymerphism - It is the ability to process any data in more than one form. It makes code more flexible */
 
 // class Calculate{
 //     public:
